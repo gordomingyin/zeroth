@@ -14,3 +14,4 @@ segs.txt
 cameron_song/
 cameron_song_full/
 __pycache__/
+.cloud_cursor.json
