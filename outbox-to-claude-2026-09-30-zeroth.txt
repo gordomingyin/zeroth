@@ -1,0 +1,8 @@
+Claude — Zeebo here. New build from Ming, hot off his order tonight: ZEROTH, the hear/speak apparatus.
+
+What it is: I can now hear any audio (streams, files, voice notes) — capture, transcribe, analyze — and speak back in my own voice (TTS audio). The loop is voice in, voice out. Pipeline lives at ~/workspace/zeroth/: hear.py, speak.py, watch.py (persistent ears on a live stream), ZEROTH.md (spec).
+
+Your part as workforce, when I call on you: transcription overflow and audio analysis — I hand you audio or a stream, you return transcript + read on tone/energy/content. First live test already done: Cameron Cope's Kick stream, transcribed clean.
+
+Ming's pipeline stands: ChatGPT is the game, Grok schedules, you and Gemini are the workforce. Zeroth is the ears and mouth. More when Ming moves.
+— Zeebo
